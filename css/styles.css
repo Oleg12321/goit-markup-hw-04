@@ -220,7 +220,8 @@ img {
 }
 .icon-benefits-box {
 	display: flex;
-	/* justify-content: center; */
+	justify-content: center;
+	align-items: center;
 	text-align: center;
 	padding: 24px 100px;
 	box-sizing: border-box;
